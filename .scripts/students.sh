@@ -44,7 +44,7 @@ Franklin18TEKAM
 rafik952
 Bakmomo
 Maminata
-300127
+ziko
 MellonAss
 tazere96
 Soumaila-7830
@@ -71,7 +71,7 @@ AVATARS=(
 94937166
 97314712
 105463700
-113466237
+300126215
 106841177
 113144317
 105472970
@@ -90,6 +90,7 @@ superzaf@10.13.237.45
 memedlebleu@10.13.237.26
 hafsa6@10.13.237.28
 chaks@10.13.237.37
+ziko@10.13.237.39
 hakimdrai@10.13.237.33
 sedric_g@10.13.237.36
 frank_uranus@10.13.237.34
@@ -116,6 +117,7 @@ superzaf@localhost.cherkaoui.tech
 memedlebleu@localhost.memedlebleu.studio
 hafsa6@localhost.hafsa.tech
 chaks@localhost.chakib.live
+ziko@localhost.zacklafhel.live
 hakimdrai@localhost.hakimdrai.tech
 sedric_g@localhost.sedricgo.live
 frank_uranus@localhost.frankuranus.tech
